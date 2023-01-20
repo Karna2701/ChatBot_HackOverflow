@@ -1,0 +1,139 @@
+{
+"intents" : [
+{
+"tag" : "greetings",
+"patterns" : [
+"Hi",
+"Hey",
+"Hello"
+],
+"responses" : [
+"Hey",
+"Welocome to XYZ tourism",
+"Hello"
+]
+},
+{
+
+"tag" : "Juhu Beach",
+"patterns": ["What is Juhu Beach?"],
+"responses" : ["Juhu is popular for lively Juhu Chowpatty Beach, a long stretch where casual cricket matches are played, and beach vendors offer snacks like bhel puri and ice cream. Nearby, chic bars serve everything from local beer to cocktails, while the white marble ISKCON temple serves up vegetarian fare and baked goods.
+"]
+},
+
+{
+      "tag": "Juhu Beach",
+      "patterns": [
+        "nearest railway stations , metro stations from juhu beach."],
+      "responses": [
+      "The nearest railway stations are Santacruz, Andheri and Vile Parle on the Western Line and Harbour Line of the Mumbai Suburban Railway. The nearest metro station is D. N. Nagar. There are two minor B.E.S.T bus depots in Juhu."
+      ]
+    },
+    {
+      "tag": "vadapav",
+      "patterns": ["Top 10 Best Vada Pav in Mumbai"],
+      "responses": [
+        "
+1 .Ashok Vada Pav, near Kirti College, Dadar
+2 .Aaram Vada Pav
+3 .Shivaji Vada Pav
+4 .Graduate Vada Pav
+5 .Gajanan Vada Pav
+6 .Dheeraj Vada Pav
+7 .Khidki Vada Pav
+8 .Anand Vada Pav
+9 .Jumbo King Vada Pav
+10.Samrat Vada Pav. "
+      ]
+    },
+    {
+      "tag": "hill stations",
+      "patterns": ["Hill stations near Mumbai"],
+      "responses": ["Lonavala and Mahableshwar."]
+    },
+    {
+      "tag": "Siddhinivinayak Temple",
+      "patterns": ["Where is Siddhivinayak Temple"
+      
+      ],
+      "responses": [
+        "It is situated in Prabhadevi, Mumbai, Maharashtra, India.
+"
+        
+      ]
+    },
+    {
+      "tag": "Siddhinivinayak Temple",
+      "patterns": [
+      "Nearest Railway station from Siddhivinayak Temple"
+      ],
+      "responses": [
+       "The Siddhivinayak Temple is approximately 15 minutes of walk from the Dadar Railway Station.
+"
+      ]
+    },
+    {
+      "tag": "Climate",
+      "patterns": [
+      "Climate in Shimla"
+      ],
+      "responses": [
+       "The climate in Shimla is predominantly cool during winters and moderately warm during summer
+Temperatures typically range from −4 °C (25 °F) to 31 °C (88 °F) over the course of a year
+The average temperature during summer is between 19 and 28 °C (66 and 82 °F), and between −1 and 10 °C (30 and 50 °F) in winter.
+"]
+    },
+    {
+      "tag": "activities",
+      "patterns": [
+        "12 things to do in Shimla"
+      ],
+      "responses": [
+        "
+Toy Train Ride: Passing Through The Green Hills
+Shopping At Lakkar Bazar: For The Shopaholics
+Ice skating: Asia’s Only Open-Air Ice Skating Rink
+Rafting At Tattapani: Feel The Adventure
+Chadwick Waterfall: See The Splendid Beauty
+Jakhu Temple: Trek To The Top
+Pine Forests: Take A Walk Amidst The Nature
+Indian Institute of Advanced Studies: Capture The Beauty
+Military Museum At Annandale: Walk Through The History
+Scandal Point: Watch The Beautiful Sunset
+Camping: Stay Amidst The Woods
+River Rafting: Sail Across The Crystal Clear Water
+Paragliding :Take A Dive In The Sky.",
+        
+      ]
+
+    },
+
+   {
+      "tag": "website",
+      "patterns": [
+       "Best website for flights to Shimla "
+      ],
+      "responses": [
+        "https://www.kayak.co.in/flights ."
+      ]
+    },
+    {
+      "tag": "trekking",
+      "patterns": ["Best Places for trekking near shimla"],
+      "responses": [
+        "
+1. Karol Tibba Trek
+2. Shali Tibba Trek
+3. Hatu Peak Trek
+4.Summer Hill Trek
+5. Churdhar Trek."
+      ]
+    },
+    {
+      "tag": "Manali",
+      "patterns": ["How far is Shimla to Manali"],
+      "responses": ["Distance between Shimla to Manali by Road i : 248 Kms."]
+    }
+
+  ]
+}
